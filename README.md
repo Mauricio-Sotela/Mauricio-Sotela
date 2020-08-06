@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Mauricio-Sotela/Mauricio-Sotela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[banner]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F540009811562412582%2F&psig=AOvVaw2m0Nbiu-DoOEqwEwynhlxW&ust=1596792553205000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDd9_mhhusCFQAAAAAdAAAAABAe
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💜 loving [react][react], [gatsby][gatsby], [styled-components][styled], [jamstack][jamstack]  
+
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[twitter]: https://twitter.com/home
+[youtube]: https://youtube.com
+[instagram]: https://www.instagram.com/mauri_c_o/
+[linkedin]: https://www.linkedin.com/in/jos%C3%A9-mauricio-sotela-prendergast-524762188/
