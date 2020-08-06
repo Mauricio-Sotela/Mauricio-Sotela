@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![bg][banner]
+![bg][banner]
 
 
 🐦 [twitter][twitter] **|** 
