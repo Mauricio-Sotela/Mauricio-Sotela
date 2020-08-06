@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F540009811562412582%2F&psig=AOvVaw2m0Nbiu-DoOEqwEwynhlxW&ust=1596792553205000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDd9_mhhusCFQAAAAAdAAAAABAe)
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F540009811562412582%2F&psig=AOvVaw2m0Nbiu-DoOEqwEwynhlxW&ust=1596792553205000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDd9_mhhusCFQAAAAAdAAAAABAe"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 
