@@ -3,10 +3,6 @@
 ![bg][banner]
 
 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Sotela&hide=ColdFusion&theme=gruvbox) ![Mauricio-Sotela GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Sotela&hide=["stars"]&show_icons=true&theme=tokyonight)  
 
 ### Languages and Tools:
