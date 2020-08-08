@@ -24,8 +24,4 @@
 
 
 
-[twitter]: https://twitter.com/home
-[youtube]: https://youtube.com
-[instagram]: https://www.instagram.com/mauri_c_o/
-[linkedin]: https://www.linkedin.com/in/jos%C3%A9-mauricio-sotela-prendergast-524762188/
-[banner]:  https://www.bharathiwebcreation.com/img/home/website-development-company-avadi.gif
+
