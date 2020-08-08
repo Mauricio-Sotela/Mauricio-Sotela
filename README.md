@@ -7,7 +7,7 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-![Mauricio-Sotela GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Sotela&hide=["stars"]&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Sotela&hide=ColdFusion)
+![Mauricio-Sotela GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Sotela&hide=["stars"]&show_icons=true&theme=gruvbox)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Sotela&hide=ColdFusion)
 
 [twitter]: https://twitter.com/home
 [youtube]: https://youtube.com
