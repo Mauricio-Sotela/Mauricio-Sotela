@@ -1,5 +1,5 @@
 ### Hi there 👋    
-#### Hello! I am Mauricio Sotela Prendergast, I'm a  Web Developer student in  DCI Berlin,Germany.
+##### Hello! I am Mauricio Sotela Prendergast, I'm a  Web Developer student in  DCI Berlin,Germany.I'm  passionate about making websites using different kind of technologies. Some technologies I enjoy working with include React JS, Redux JS,Express Js. I enjoy working in teams because is the better way to share and recive knowledge.
           
      
          
