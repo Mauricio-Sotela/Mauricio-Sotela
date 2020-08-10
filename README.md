@@ -1,9 +1,9 @@
-### Hi there 👋 <p>
-            Hello! my name is <span>Mauricio Sotela Prendergast</span>, I'm a
-            Web Developer student in
-            <a href="https://digitalcareerinstitute.org/">DCI</a> Berlin,
-            Germany.
-          </p>
+### Hi there 👋    
+#### Hello! I am Mauricio Sotela Prendergast, I'm a  Web Developer student in  DCI Berlin,Germany.
+          
+     
+         
+        
 
 ![bg][banner]
 
