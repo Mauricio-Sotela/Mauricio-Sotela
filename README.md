@@ -1,7 +1,7 @@
 
 ![bg][banner]
 
-##### Hello! I am Mauricio Sotela Prendergast, I'm a  Web Developer student in  DCI Berlin, Germany. I'm  passionate about making websites using different kind of technologies. Some technologies I enjoy working with include React JS, Redux JS,Express Js. I enjoy working in teams because is the better way to share and recive knowledge.
+##### Hello! I am Mauricio Sotela Prendergast, I am a  Web Developer student in  DCI Berlin, Germany. I'm  passionate about making websites using different kind of technologies. Some technologies I enjoy working with include React JS, Redux JS,Express Js. I enjoy working in teams because is the better way to share and recive knowledge.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Sotela&hide=ColdFusion&theme=gruvbox) ![Mauricio-Sotela GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mauricio-Sotela&hide=["stars"]&show_icons=true&theme=tokyonight)  
